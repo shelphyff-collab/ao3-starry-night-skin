@@ -1,6 +1,6 @@
 🌌 Starry Night AO3 Skin
 
-https://postimg.cc/Ln4v8GKr
+<a href='https://postimg.cc/Ln4v8GKr' target='_blank'><img src='https://i.postimg.cc/xTMZtSsT/SCR-20260305-ly9.jpg' border='0' alt='SCR-20260305-ly9'></a>
 
 A beautiful, dark-mode friendly site skin for Archive of Our Own (AO3) inspired by Vincent van Gogh's masterpiece, "The Starry Night".
 
